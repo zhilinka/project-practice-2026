@@ -9,69 +9,25 @@
     <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/journal/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Разработка Telegram-бота</title>
+      <title>Разработка бота</title>
       <link>//localhost:1313/journal/post-3/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/journal/post-3/</guid>
-      <description>&lt;h2 id=&#34;начало-разработки-бота&#34;&gt;Начало разработки бота&lt;/h2&gt;
-&lt;p&gt;На этом этапе приступили к изучению Telegram Bot API
-и библиотеки python-telegram-bot.&lt;/p&gt;
-&lt;h2 id=&#34;что-сделали&#34;&gt;Что сделали&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Изучили документацию Telegram Bot API&lt;/li&gt;
-&lt;li&gt;Установили Python и библиотеку python-telegram-bot&lt;/li&gt;
-&lt;li&gt;Создали бота через BotFather в Telegram&lt;/li&gt;
-&lt;li&gt;Написали базовый код бота с командами /start и /help&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;планы-на-следующий-этап&#34;&gt;Планы на следующий этап&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Добавить дополнительные команды и функционал&lt;/li&gt;
-&lt;li&gt;Написать техническое руководство по созданию бота&lt;/li&gt;
-&lt;li&gt;Подготовить видео-презентацию проекта&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Приступили к изучению Telegram Bot API и библиотеки python-telegram-bot. Создали бота через BotFather.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Создание сайта на Hugo</title>
+      <title>Создание сайта</title>
       <link>//localhost:1313/journal/post-2/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/journal/post-2/</guid>
-      <description>&lt;h2 id=&#34;работа-над-сайтом&#34;&gt;Работа над сайтом&lt;/h2&gt;
-&lt;p&gt;На этом этапе занялись созданием статического сайта на Hugo
-с темой PaperMod.&lt;/p&gt;
-&lt;h2 id=&#34;что-сделали&#34;&gt;Что сделали&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Установили Hugo на Windows&lt;/li&gt;
-&lt;li&gt;Создали структуру сайта&lt;/li&gt;
-&lt;li&gt;Установили тему PaperMod&lt;/li&gt;
-&lt;li&gt;Настроили навигацию и конфигурацию&lt;/li&gt;
-&lt;li&gt;Создали и заполнили страницы: Главная, О проекте, Участники, Ресурсы&lt;/li&gt;
-&lt;li&gt;Добавили журнал прогресса&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;трудности&#34;&gt;Трудности&lt;/h2&gt;
-&lt;p&gt;При работе с блокнотом возникли проблемы с кодировкой —
-решили переключиться на VS Code с кодировкой UTF-8.&lt;/p&gt;
-&lt;h2 id=&#34;планы-на-следующий-этап&#34;&gt;Планы на следующий этап&lt;/h2&gt;
-&lt;p&gt;Приступить к разработке Telegram-бота на Python.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Создали статический сайт на Hugo с темой PaperMod. Заполнили страницы О проекте, Участники, Ресурсы и Журнал.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Начало практики — настройка репозитория</title>
+      <title>Начало практики</title>
       <link>//localhost:1313/journal/post-1/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/journal/post-1/</guid>
-      <description>&lt;h2 id=&#34;начало-работы&#34;&gt;Начало работы&lt;/h2&gt;
-&lt;p&gt;Сегодня приступили к проектной практике. Ознакомились с заданием,
-определили состав группы и выбрали тему вариативной части.&lt;/p&gt;
-&lt;h2 id=&#34;что-сделали&#34;&gt;Что сделали&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Зарегистрировались на GitHub&lt;/li&gt;
-&lt;li&gt;Создали репозиторий project-practice-2026&lt;/li&gt;
-&lt;li&gt;Настроили структуру папок: docs, src, site, reports&lt;/li&gt;
-&lt;li&gt;Добавили партнёра в репозиторий&lt;/li&gt;
-&lt;li&gt;Заполнили README.md&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;планы-на-следующий-этап&#34;&gt;Планы на следующий этап&lt;/h2&gt;
-&lt;p&gt;Начать создание статического сайта на Hugo и написать
-техническую документацию по проекту.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Начало работы над проектной практикой. Создали репозиторий на GitHub, настроили структуру папок, заполнили README.md. Выбрали тему вариативной части — Telegram-бот на Python.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

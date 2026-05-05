@@ -30,3 +30,8 @@ theme = "PaperMod"
     name = "Ресурсы"
     url = "/resources/"
     weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

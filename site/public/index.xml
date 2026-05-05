@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Проектная практика 2026</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Проектная практика 2026</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разработка Telegram-бота</title>
+      <link>//localhost:1313/journal/post-3/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journal/post-3/</guid>
+      <description>&lt;h2 id=&#34;начало-разработки-бота&#34;&gt;Начало разработки бота&lt;/h2&gt;
+&lt;p&gt;На этом этапе приступили к изучению Telegram Bot API
+и библиотеки python-telegram-bot.&lt;/p&gt;
+&lt;h2 id=&#34;что-сделали&#34;&gt;Что сделали&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучили документацию Telegram Bot API&lt;/li&gt;
+&lt;li&gt;Установили Python и библиотеку python-telegram-bot&lt;/li&gt;
+&lt;li&gt;Создали бота через BotFather в Telegram&lt;/li&gt;
+&lt;li&gt;Написали базовый код бота с командами /start и /help&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;планы-на-следующий-этап&#34;&gt;Планы на следующий этап&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавить дополнительные команды и функционал&lt;/li&gt;
+&lt;li&gt;Написать техническое руководство по созданию бота&lt;/li&gt;
+&lt;li&gt;Подготовить видео-презентацию проекта&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Создание сайта на Hugo</title>
+      <link>//localhost:1313/journal/post-2/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journal/post-2/</guid>
+      <description>&lt;h2 id=&#34;работа-над-сайтом&#34;&gt;Работа над сайтом&lt;/h2&gt;
+&lt;p&gt;На этом этапе занялись созданием статического сайта на Hugo
+с темой PaperMod.&lt;/p&gt;
+&lt;h2 id=&#34;что-сделали&#34;&gt;Что сделали&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Установили Hugo на Windows&lt;/li&gt;
+&lt;li&gt;Создали структуру сайта&lt;/li&gt;
+&lt;li&gt;Установили тему PaperMod&lt;/li&gt;
+&lt;li&gt;Настроили навигацию и конфигурацию&lt;/li&gt;
+&lt;li&gt;Создали и заполнили страницы: Главная, О проекте, Участники, Ресурсы&lt;/li&gt;
+&lt;li&gt;Добавили журнал прогресса&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;трудности&#34;&gt;Трудности&lt;/h2&gt;
+&lt;p&gt;При работе с блокнотом возникли проблемы с кодировкой —
+решили переключиться на VS Code с кодировкой UTF-8.&lt;/p&gt;
+&lt;h2 id=&#34;планы-на-следующий-этап&#34;&gt;Планы на следующий этап&lt;/h2&gt;
+&lt;p&gt;Приступить к разработке Telegram-бота на Python.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Начало практики — настройка репозитория</title>
+      <link>//localhost:1313/journal/post-1/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journal/post-1/</guid>
+      <description>&lt;h2 id=&#34;начало-работы&#34;&gt;Начало работы&lt;/h2&gt;
+&lt;p&gt;Сегодня приступили к проектной практике. Ознакомились с заданием,
+определили состав группы и выбрали тему вариативной части.&lt;/p&gt;
+&lt;h2 id=&#34;что-сделали&#34;&gt;Что сделали&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Зарегистрировались на GitHub&lt;/li&gt;
+&lt;li&gt;Создали репозиторий project-practice-2026&lt;/li&gt;
+&lt;li&gt;Настроили структуру папок (docs, src, site, reports)&lt;/li&gt;
+&lt;li&gt;Добавили партнёра в репозиторий&lt;/li&gt;
+&lt;li&gt;Заполнили README.md&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;планы-на-следующий-этап&#34;&gt;Планы на следующий этап&lt;/h2&gt;
+&lt;p&gt;Начать создание статического сайта на Hugo и написать
+техническую документацию по проекту.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>О проекте</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;о-проекте&#34;&gt;О проекте&lt;/h2&gt;
+&lt;p&gt;Данный проект выполняется в рамках проектной (учебной) практики 2025–2026.&lt;/p&gt;
+&lt;h2 id=&#34;название-проекта&#34;&gt;Название проекта&lt;/h2&gt;
+&lt;p&gt;Python: How To Create a Telegram Bot Using Python&lt;/p&gt;
+&lt;h2 id=&#34;цель&#34;&gt;Цель&lt;/h2&gt;
+&lt;p&gt;Изучить технологию создания Telegram-ботов на Python и разработать работающего бота с практическим функционалом.&lt;/p&gt;
+&lt;h2 id=&#34;задачи&#34;&gt;Задачи&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Изучить Telegram Bot API и библиотеку python-telegram-bot&lt;/li&gt;
+&lt;li&gt;Разработать Telegram-бота с набором команд&lt;/li&gt;
+&lt;li&gt;Написать техническое руководство по созданию бота&lt;/li&gt;
+&lt;li&gt;Задокументировать проект в репозитории и на сайте&lt;/li&gt;
+&lt;li&gt;Подготовить видео-презентацию проекта&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;технологии&#34;&gt;Технологии&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python 3.x&lt;/li&gt;
+&lt;li&gt;Библиотека python-telegram-bot&lt;/li&gt;
+&lt;li&gt;Git / GitHub&lt;/li&gt;
+&lt;li&gt;Hugo (статический сайт)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Ресурсы</title>
+      <link>//localhost:1313/resources/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/resources/</guid>
+      <description>&lt;h2 id=&#34;полезные-ресурсы&#34;&gt;Полезные ресурсы&lt;/h2&gt;
+&lt;h3 id=&#34;организация-партнёр&#34;&gt;Организация-партнёр&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mospolytech.ru&#34;&gt;Московский политехнический университет&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;telegram-bot-api&#34;&gt;Telegram Bot API&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://core.telegram.org/bots/api&#34;&gt;Официальная документация Telegram Bot API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://python-telegram-bot.org&#34;&gt;Библиотека python-telegram-bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/&#34;&gt;Руководство по созданию Telegram-бота на Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.python.org/ru/3/&#34;&gt;Официальная документация Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ru.hexlet.io/courses/python&#34;&gt;Бесплатный курс по Python на Hexlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;git-и-github&#34;&gt;Git и GitHub&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/book/ru/v2&#34;&gt;Официальная документация Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ru.hexlet.io/courses/intro_to_git&#34;&gt;Бесплатный курс по Git на Hexlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hugo&#34;&gt;Hugo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;Официальная документация Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo Quick Start Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Участники</title>
+      <link>//localhost:1313/members/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/</guid>
+      <description>&lt;h2 id=&#34;участники-проекта&#34;&gt;Участники проекта&lt;/h2&gt;
+&lt;h3 id=&#34;жилин-константин-владимирович&#34;&gt;Жилин Константин Владимирович&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Учебная группа:&lt;/strong&gt; 251-333&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Роль в проекте:&lt;/strong&gt; разработка бота, настройка репозитория&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Вклад:&lt;/strong&gt; настройка Git-репозитория, создание структуры проекта, разработка Telegram-бота, написание технической документации&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;беджанов-азамат-асланович&#34;&gt;Беджанов Азамат Асланович&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Учебная группа:&lt;/strong&gt; 251-333&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Роль в проекте:&lt;/strong&gt; разработка сайта, документация&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Вклад:&lt;/strong&gt; создание статического сайта на Hugo, написание журнала прогресса, оформление документации&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+baseURL = "/"
+languageCode = "ru"
+title = "Проектная практика 2026"
+theme = "PaperMod"
+
+[params]
+  author = "Жилин К.В., Беджанов А.А."
+  description = "Разработка Telegram-бота на Python"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "О проекте"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Участники"
+    url = "/members/"
+    weight = 3
+  [[menu.main]]
+    name = "Журнал"
+    url = "/journal/"
+    weight = 4
+  [[menu.main]]
+    name = "Ресурсы"
+    url = "/resources/"
+    weight = 5

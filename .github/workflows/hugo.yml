@@ -22,7 +22,8 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build
-        run: cd site && hugo --minify
+        working-directory: site
+        run: hugo --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

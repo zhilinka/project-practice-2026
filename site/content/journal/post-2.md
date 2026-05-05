@@ -2,6 +2,7 @@
 title: "Создание сайта на Hugo"
 date: 2026-02-10
 draft: false
+markup: md
 ---
 
 ## Работа над сайтом

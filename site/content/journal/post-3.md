@@ -2,6 +2,7 @@
 title: "Разработка Telegram-бота"
 date: 2026-02-17
 draft: false
+markup: md
 ---
 
 ## Начало разработки бота

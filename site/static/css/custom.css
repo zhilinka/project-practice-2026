@@ -2,8 +2,7 @@
     background-color: #0a1628 !important;
 }
 
-.container {
+.wrapper {
     max-width: 800px;
     margin: 0 auto !important;
-    padding: 0 20px;
 }

@@ -10,6 +10,7 @@ theme = "terminal"
   ShowPostNavLinks = true
   disableSpecial1stPost = true
   customCSS = ["/css/custom.css"]
+  themeColor = "#0a1628"
 
 [menu]
   [[menu.main]]

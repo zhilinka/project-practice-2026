@@ -23,7 +23,7 @@ jobs:
           hugo-version: '0.161.1'
           extended: true
       - name: Build
-        run: hugo --minify --themesDir ../themes
+        run: hugo --minify
         working-directory: ./site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

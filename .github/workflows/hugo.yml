@@ -16,13 +16,14 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
+          fetch-depth: 0
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.161.1'
           extended: true
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --themesDir ../themes
         working-directory: ./site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

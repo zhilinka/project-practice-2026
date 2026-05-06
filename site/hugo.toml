@@ -1,13 +1,14 @@
 baseURL = "/"
 languageCode = "ru"
 title = "Проектная практика 2026"
-theme = "PaperMod"
+theme = "ananke"
 
 [params]
   author = "Жилин К.В., Беджанов А.А."
   description = "Разработка Telegram-бота на Python"
   ShowReadingTime = true
   ShowPostNavLinks = true
+  disableSpecial1stPost = true
 
 [menu]
   [[menu.main]]
@@ -30,8 +31,3 @@ theme = "PaperMod"
     name = "Ресурсы"
     url = "/resources/"
     weight = 5
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true

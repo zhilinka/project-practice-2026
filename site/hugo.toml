@@ -9,6 +9,7 @@ theme = "terminal"
   ShowReadingTime = true
   ShowPostNavLinks = true
   disableSpecial1stPost = true
+  customCSS = ["css/custom.css"]
 
 [menu]
   [[menu.main]]

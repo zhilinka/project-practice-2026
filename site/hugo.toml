@@ -1,7 +1,7 @@
 baseURL = "/"
-languageCode = "ru"
+locale = "ru"
 title = "Проектная практика 2026"
-theme = "ananke"
+theme = "terminal"
 
 [params]
   author = "Жилин К.В., Беджанов А.А."

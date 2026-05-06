@@ -4,3 +4,9 @@
 [submodule "site/themes/ananke"]
 	path = site/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "site/themes/stack"]
+	path = site/themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "site/themes/terminal"]
+	path = site/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal

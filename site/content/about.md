@@ -9,7 +9,7 @@ draft: false
 
 ## Схема работы бота
 
-<img src="https://zhilinka.github.io/project-practice-2026/images/bot-scheme.svg" alt="Схема работы Telegram-бота" width="100%">
+<img src="https://zhilinka.github.io/project-practice-2026/images/bot-scheme.svg" alt="Схема работы Telegram-бота" style="display:block;margin:0 auto;width:100%;">
 
 ## Название проекта
 Python: How To Create a Telegram Bot Using Python

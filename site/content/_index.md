@@ -2,8 +2,7 @@
 title: "Проектная практика 2026"
 date: 2026-02-03
 ---
-
-![Московский Политех](https://zhilinka.github.io/project-practice-2026/images/logo.png)
+<img src="https://zhilinka.github.io/project-practice-2026/images/logo.png" alt="Московский Политех" width="200">
 
 ## Добро пожаловать
 Это сайт проектной (учебной) практики студентов группы 251-333

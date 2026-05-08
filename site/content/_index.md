@@ -1,8 +1,11 @@
-﻿---
+﻿@'
+---
 title: "Проектная практика 2026"
 date: 2026-02-03
 ---
-<img src="https://zhilinka.github.io/project-practice-2026/images/logo.png" alt="Московский Политех" width="200">
+<div style="text-align: center; margin: 20px 0;">
+<img src="https://zhilinka.github.io/project-practice-2026/images/logo.png" alt="Московский Политех" width="150">
+</div>
 
 ## Добро пожаловать
 Это сайт проектной (учебной) практики студентов группы 251-333
@@ -21,3 +24,4 @@ date: 2026-02-03
 
 ## Ответственный по практике
 Семёнова Валерия Валерьевна
+'@ | Set-Content C:\Users\zhili\project-practice-2026\site\content\_index.md -Encoding UTF8

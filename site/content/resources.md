@@ -6,35 +6,27 @@ draft: false
 
 ## Полезные ресурсы
 
-### 🏛 Организация-партнёр
+<img src="https://zhilinka.github.io/project-practice-2026/images/logo.png" width="24" style="border:none;vertical-align:middle"> **Организация-партнёр**
 
 - [Московский политехнический университет](https://mospolytech.ru)
 
-### 🤖 Telegram Bot API
-
-<img src="https://zhilinka.github.io/project-practice-2026/images/icon-telegram.svg" width="48" style="border:none;margin-bottom:8px">
+<img src="https://zhilinka.github.io/project-practice-2026/images/icon-telegram.svg" width="24" style="border:none;vertical-align:middle"> **Telegram Bot API**
 
 - [Официальная документация Telegram Bot API](https://core.telegram.org/bots/api)
 - [Библиотека python-telegram-bot](https://python-telegram-bot.org)
 - [Руководство по созданию Telegram-бота на Python](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
 
-### 🐍 Python
-
-<img src="https://zhilinka.github.io/project-practice-2026/images/icon-python.svg" width="48" style="border:none;margin-bottom:8px">
+<img src="https://zhilinka.github.io/project-practice-2026/images/icon-python.svg" width="24" style="border:none;vertical-align:middle"> **Python**
 
 - [Официальная документация Python](https://docs.python.org/ru/3/)
 - [Бесплатный курс по Python на Hexlet](https://ru.hexlet.io/courses/python)
 
-### 🐙 Git и GitHub
-
-<img src="https://zhilinka.github.io/project-practice-2026/images/icon-git.svg" width="48" style="border:none;margin-bottom:8px">
+<img src="https://zhilinka.github.io/project-practice-2026/images/icon-git.svg" width="24" style="border:none;vertical-align:middle"> **Git и GitHub**
 
 - [Официальная документация Git](https://git-scm.com/book/ru/v2)
 - [Бесплатный курс по Git на Hexlet](https://ru.hexlet.io/courses/intro_to_git)
 
-### ⚡ Hugo
-
-<img src="https://zhilinka.github.io/project-practice-2026/images/icon-hugo.svg" width="48" style="border:none;margin-bottom:8px">
+<img src="https://zhilinka.github.io/project-practice-2026/images/icon-hugo.svg" width="24" style="border:none;vertical-align:middle"> **Hugo**
 
 - [Официальная документация Hugo](https://gohugo.io/documentation/)
 - [Hugo Quick Start Guide](https://gohugo.io/getting-started/quick-start/)

@@ -6,7 +6,7 @@ draft: false
 
 ## Полезные ресурсы
 
-<img src="https://zhilinka.github.io/project-practice-2026/images/logo.png" width="24" style="border:none;vertical-align:middle"> **Организация-партнёр**
+<img src="https://zhilinka.github.io/project-practice-2026/images/icon-politech.svg" width="24" style="border:none;vertical-align:middle"> **Организация-партнёр**
 
 - [Московский политехнический университет](https://mospolytech.ru)
 

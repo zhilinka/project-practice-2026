@@ -33,6 +33,10 @@ theme = "terminal"
     name = "Ресурсы"
     url = "/resources/"
     weight = 5
+  [[menu.main]]
+    name = "Партнёр"
+    url = "/partner/"
+    weight = 6
 
 [markup]
   [markup.goldmark]

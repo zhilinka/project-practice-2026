@@ -37,6 +37,10 @@ theme = "terminal"
     name = "Партнёр"
     url = "/partner/"
     weight = 6
+  [[menu.main]]
+    name = "Туториал"
+    url = "/tutorial/"
+    weight = 10
 
 [markup]
   [markup.goldmark]

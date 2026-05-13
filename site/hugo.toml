@@ -38,8 +38,8 @@ theme = "terminal"
     url = "/partner/"
     weight = 6
   [[menu.main]]
-    name = "Туториал"
-    url = "/tutorial/"
+    name = "Вариативная часть"
+    url = "/variable/"
     weight = 10
 
 [markup]
